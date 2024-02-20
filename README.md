@@ -1,5 +1,7 @@
 # MINI PORTFOLIO PROJECT
 
+![PERSONAL PORTFOLIO](./screenshot2024.png)
+
 - Welcome to my portfolio website! This website showcases my work, skills, and background. It serves as a platform for potential clients, employers, or collaborators to learn more about me and my projects.
 
 # FEATURES
